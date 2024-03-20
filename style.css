@@ -63,3 +63,55 @@ body main .section_2 .our_skills .charts_our_skills label {
 }
 
 /* ----------- end section 2 yousef khezri ------------ */
+
+body footer #divFooter{
+    margin: 50px;
+   
+}
+body footer #footerH2{
+color: rgb(24, 16, 9);
+border-bottom: 3px solid rgb(101, 65, 65)
+}
+
+
+body footer #endFotter{
+    color: aliceblue;
+    padding: 100px;
+    background-color: rgb(36, 36, 36);
+}
+body, footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+
+#socialmediaIcon {
+    width: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    object-fit: none;
+}
+
+
+#socialmediaIcon {
+    width: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    object-fit: none;
+}
+
+
+
+body footer #socialmediaIcon img {
+    width: 25%;
+}
+
+body.header{
+    width: 100%;
+    padding:20px;
+    background-color: aquamarine;
+} 
+
