@@ -1,3 +1,4 @@
+
 body footer #divFooter{
     margin: 50px;
    
@@ -42,3 +43,10 @@ body, footer {
 body footer #socialmediaIcon img {
     width: 25%;
 }
+
+body.header{
+    width: 100%;
+    padding:20px;
+    background-color: aquamarine;
+} 
+
